@@ -2,7 +2,7 @@
 [![Github Badge](https://img.shields.io/badge/-nivid26-purple?style=flat&logo=github&logoColor=white&link=https://github.com/nivid26)](https://github.com/nivid26)
 [![Linkedin Badge](https://img.shields.io/badge/-Nivid-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nividpatel/)](https://www.linkedin.com/in/nividpatel/)
 [![StackOverflow badge](https://img.shields.io/badge/-Nivid-white?style=flat&logo=stack-overflow&logoColor=orange&link=https://stackoverflow.com/users/13728948/nivid-patel)](https://stackoverflow.com/users/13728948/nivid-patel)
-[![Leetcode Badge](https://img.shields.io/badge/-Kush1101-pink?style=flat&logo=leetcode&logoColor=black&link=https://leetcode.com/kush1101/)](https://leetcode.com/kush1101/)
+[![Leetcode Badge](https://img.shields.io/badge/-nividpatel-pink?style=flat&logo=leetcode&logoColor=black&link=https://leetcode.com/nividpatel/)](https://leetcode.com/kush1101/)
 [![Codechef Badge](https://cp-logo.vercel.app/codechef/crisfuller?logo=true)](https://www.codechef.com/users/crisfuller)
 [![Dev.to badge](https://img.shields.io/badge/-Kush-black?style=flat&logo=Dev.to&logoColor=white&link=https://dev.to/kush1101)](https://dev.to/kush1101)
 [![Kaggle Badge](https://img.shields.io/badge/-kush1101-grey?style=flat&logo=kaggle&logoColor=aqua&link=https://www.kaggle.com/kush1101)](https://www.kaggle.com/kush1101)
