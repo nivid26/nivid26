@@ -1,8 +1,7 @@
 ## Hi there 👋
 [![Github Badge](https://img.shields.io/badge/-nivid26-purple?style=flat&logo=github&logoColor=white&link=https://github.com/nivid26)](https://github.com/nivid26)
 [![Linkedin Badge](https://img.shields.io/badge/-Nivid-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nividpatel/)](https://www.linkedin.com/in/nividpatel/)
-[![Medium Badge](https://img.shields.io/badge/-@kushagra1101-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@kushagra1101)](https://medium.com/@kushagra1101)
-[![StackOverflow badge](https://img.shields.io/badge/-Kushagra-white?style=flat&logo=stack-overflow&logoColor=orange&link=https://stackoverflow.com/users/13550402/kushagra-bansal)](https://stackoverflow.com/users/13550402/kushagra-bansal)
+[![StackOverflow badge](https://img.shields.io/badge/-Kushagra-white?style=flat&logo=stack-overflow&logoColor=orange&link=https://stackoverflow.com/users/13728948/nivid-patel)](https://stackoverflow.com/users/13728948/nivid-patel)
 [![Leetcode Badge](https://img.shields.io/badge/-Kush1101-pink?style=flat&logo=leetcode&logoColor=black&link=https://leetcode.com/kush1101/)](https://leetcode.com/kush1101/)
 [![Codechef Badge](https://cp-logo.vercel.app/codechef/crisfuller?logo=true)](https://www.codechef.com/users/crisfuller)
 [![Dev.to badge](https://img.shields.io/badge/-Kush-black?style=flat&logo=Dev.to&logoColor=white&link=https://dev.to/kush1101)](https://dev.to/kush1101)
