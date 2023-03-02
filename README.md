@@ -17,6 +17,6 @@ I love to connect and collaborate with new people.
 - 👯 I’m looking to collaborate on projects
 - 📫 How to reach me: [Inbox](mailto:patelnivid@gmail.com)
 
-[![Nivid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nivid26&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/nivid26)
+[![Nivid's GitHub stats 2023](https://github-readme-stats.vercel.app/api?username=nivid26&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/nivid26)
 
 
